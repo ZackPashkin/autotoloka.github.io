@@ -7,9 +7,11 @@ permalink: /
 ---
 [![PyPI version](https://cdn.svgporn.com/logos/python.svg)](https://pypi.org/project/autotoloka/)
 [![Github](https://cdn.svgporn.com/logos/github.svg)](https://github.com/ZackPashkin/AutoToloka)
-
+<img src="https://github.com/ZackPashkin/AutoToloka" data-canonical-src="https://cdn.svgporn.com/logos/python.svg" width="10" height="10" />
+<img src="https://pypi.org/project/autotoloka/" data-canonical-src="https://cdn.svgporn.com/logos/github.svg" width="10" height="10" />
 
 <iframe src="https://drive.google.com/file/d/1eZpdzEGEMM_WU9yPgRz4BI_Esqk1BBdo/preview" width="640" height="480" allow="autoplay" allowfullscreen="allowfullscreen"></iframe>
+
 
 ---
 ## AutoToloka on Github
