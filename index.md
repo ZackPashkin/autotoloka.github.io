@@ -93,6 +93,8 @@ handler.stop_showing_task_suite(SUITE_ID)
 handler.get_answers(POOL_ID)
 
 ```
+### More info
+[See our google slides](https://docs.google.com/presentation/d/1FhUmFt8Wy8_c1YqLghPHYvXyrOaAFDQ76KI7av3sUUI/edit?usp=sharing)
 
 ### Authors
 The library created by [SHIFTLab CFT]( https://team.cft.ru/start/lab )
