@@ -10,6 +10,8 @@ permalink: /
 <iframe src="https://drive.google.com/file/d/1eZpdzEGEMM_WU9yPgRz4BI_Esqk1BBdo/preview" width="640" height="480" allow="autoplay" allowfullscreen="allowfullscreen"></iframe>
 
 ---
+## AutoToloka on Github
+[AutoToloka](https://github.com/ZackPashkin/AutoToloka)
 
 ## Quickstart
 [Colab](https://colab.research.google.com/drive/1BYQJNkDpdGjUny-GwQeXew8jZFnyPt_Z?usp=sharing)
