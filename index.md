@@ -10,6 +10,8 @@ description: "AutoToloka is a Python library for managing Yandex.Toloka projects
 
 ---
 
+## Quickstart
+[Colab](https://colab.research.google.com/drive/1BYQJNkDpdGjUny-GwQeXew8jZFnyPt_Z?usp=sharing)
 
 
 
