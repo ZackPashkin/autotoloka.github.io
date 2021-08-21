@@ -12,7 +12,7 @@ permalink: /
 
 
 
-<iframe src="https://drive.google.com/file/d/1eZpdzEGEMM_WU9yPgRz4BI_Esqk1BBdo/preview" width="640" height="480" allow="autoplay" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://drive.google.com/file/d/1eZpdzEGEMM_WU9yPgRz4BI_Esqk1BBdo/preview" width="640" height="480" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ---
