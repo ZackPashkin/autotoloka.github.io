@@ -8,8 +8,11 @@ permalink: /
 
 
 <a href="https://github.com/ZackPashkin/AutoToloka"><img src="https://cdn.svgporn.com/logos/github.svg" align="left" height="25" width="80" ></a>
+---
+---
+---
 
-<a href="https://pypi.org/project/autotoloka"><img src="https://cdn.svgporn.com/logos/python.svg" align="right" height="42" width="42" ></a>
+<a href="https://pypi.org/project/autotoloka"><img src="https://cdn.svgporn.com/logos/python.svg" align="left" height="42" width="42" ></a>
 
 ---
 ---
