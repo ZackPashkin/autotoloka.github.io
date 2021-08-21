@@ -7,14 +7,7 @@ permalink: /
 ---
 
 
-<a href="https://github.com/ZackPashkin/AutoToloka"><img src="https://cdn.svgporn.com/logos/github.svg" align="left" height="20" width="60" > </a>
 
-
-<a href="https://pypi.org/project/autotoloka"><img src="https://cdn.svgporn.com/logos/python.svg" align="left" height="32" width="32" > </a>
-
----
----
----
 
 
 
@@ -24,8 +17,13 @@ permalink: /
 
 ---
 ---
-## AutoToloka on Github
-[AutoToloka](https://github.com/ZackPashkin/AutoToloka)
+<a href="https://github.com/ZackPashkin/AutoToloka"><img src="https://cdn.svgporn.com/logos/github.svg" align="left" height="20" width="60" > </a>
+
+---
+---
+<a href="https://pypi.org/project/autotoloka"><img src="https://cdn.svgporn.com/logos/python.svg" align="left" height="32" width="32" > </a>
+
+
 
 ## Quickstart
 [Colab](https://colab.research.google.com/drive/1BYQJNkDpdGjUny-GwQeXew8jZFnyPt_Z?usp=sharing)
