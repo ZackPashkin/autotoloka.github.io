@@ -5,24 +5,19 @@ nav_order: 1
 description: "AutoToloka is a Python library for managing Yandex.Toloka projects and tasks"
 permalink: /
 ---
-# See short Demo video
+
 
 <iframe src="https://drive.google.com/file/d/1eZpdzEGEMM_WU9yPgRz4BI_Esqk1BBdo/preview" width="640" height="480" allow="autoplay"></iframe>
 
 ---
 
 
-## Getting started
-
-```yaml
-pip install autoloka
-```
 
 
 ## Installation
 To install the latest version from PyPI:
 ```python
-pip install -U autotoloka
+pip install autotoloka
 ```
 
 # Getting started
