@@ -22,7 +22,9 @@ permalink: /
 ---
 ---
 <a href="https://pypi.org/project/autotoloka"><img src="https://cdn.svgporn.com/logos/python.svg" align="left" height="32" width="32" > </a>
-
+  
+---
+---
 
 
 ## Quickstart
