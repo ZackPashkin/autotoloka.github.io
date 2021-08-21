@@ -6,8 +6,15 @@ description: "AutoToloka is a Python library for managing Yandex.Toloka projects
 permalink: /
 ---
 
-<a href="https://github.com/ZackPashkin/AutoToloka"><img src="https://cdn.svgporn.com/logos/github.svg" align="left" height="40" width="18" ></a>
-<a href="https://pypi.org/project/autotoloka"><img src="https://cdn.svgporn.com/logos/python.svg" align="left" height="30" width="30" ></a>
+
+<a href="https://github.com/ZackPashkin/AutoToloka"><img src="https://cdn.svgporn.com/logos/github.svg" align="left" height="20" width="60" ></a>
+<a href="https://pypi.org/project/autotoloka"><img src="https://cdn.svgporn.com/logos/python.svg" align="left" height="32" width="32" ></a>
+
+---
+
+<iframe src="https://drive.google.com/file/d/1eZpdzEGEMM_WU9yPgRz4BI_Esqk1BBdo/preview" width="640" height="480" allow="autoplay" allowfullscreen="allowfullscreen"></iframe>
+
+
 
 ---
 ## AutoToloka on Github
