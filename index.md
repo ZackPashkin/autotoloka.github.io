@@ -5,8 +5,8 @@ nav_order: 1
 description: "AutoToloka is a Python library for managing Yandex.Toloka projects and tasks"
 permalink: /
 ---
-[![PyPI version](https://badge.fury.io/py/albumentations.svg)](https://pypi.org/project/autotoloka/)
-[![Github](https://cdn.svgporn.com/logos/python.svg)](https://github.com/ZackPashkin/AutoToloka)
+[![PyPI version](https://cdn.svgporn.com/logos/python.svg)](https://pypi.org/project/autotoloka/)
+[![Github](https://cdn.svgporn.com/logos/github.svg)](https://github.com/ZackPashkin/AutoToloka)
 
 
 <iframe src="https://drive.google.com/file/d/1eZpdzEGEMM_WU9yPgRz4BI_Esqk1BBdo/preview" width="640" height="480" allow="autoplay" allowfullscreen="allowfullscreen"></iframe>
