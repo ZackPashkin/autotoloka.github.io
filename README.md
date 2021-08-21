@@ -1,2 +1,2 @@
 # autotoloka_pages
-docs website for autotoloka library
+Docs website for autotoloka library
