@@ -9,7 +9,10 @@ permalink: /
 [![Github](https://cdn.svgporn.com/logos/github.svg)](https://github.com/ZackPashkin/AutoToloka)
 
 <img src="https://github.com/ZackPashkin/AutoToloka" data-canonical-src="https://cdn.svgporn.com/logos/python.svg" width="10" height="10" />
-<img src="https://cdn.svgporn.com/logos/python.svg" data-canonical-src="https://github.com/ZackPashkin/AutoToloka" width="10" height="10" />
+
+<img src="https://cdn.svgporn.com/logos/python.svg" data-canonical-src="https://pypi.org/project/autotoloka" width="20" height="20" />
+<img src="https://cdn.svgporn.com/logos/github.svg" data-canonical-src="https://github.com/ZackPashkin/AutoToloka" width="30" height="15" />
+
 <img src="https://pypi.org/project/autotoloka/" data-canonical-src="https://cdn.svgporn.com/logos/github.svg" width="10" height="10" />
 
 <iframe src="https://drive.google.com/file/d/1eZpdzEGEMM_WU9yPgRz4BI_Esqk1BBdo/preview" width="640" height="480" allow="autoplay" allowfullscreen="allowfullscreen"></iframe>
