@@ -44,7 +44,7 @@ pip install autotoloka
 
 # Getting started
 ### OAuth Token
-For authorization, you need to get an OAuth token, you can get it on your Yandex.Toloka profile.
+For authorization, you need to get an OAuth token from your Yandex.Toloka profile.
 
 Profile -> External Services Integration -> Get OAuth token
 
