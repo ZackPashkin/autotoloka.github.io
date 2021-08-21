@@ -3,7 +3,7 @@ layout: default
 title: AutoToloka
 nav_order: 1
 description: "AutoToloka is a Python library for managing Yandex.Toloka projects and tasks"
-permalink: https://pypi.org/project/autotoloka/
+permalink: /
 ---
 
 
