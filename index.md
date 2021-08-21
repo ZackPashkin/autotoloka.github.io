@@ -7,9 +7,9 @@ permalink: /
 ---
 
 
-<a href="https://github.com/ZackPashkin/AutoToloka"><img src="https://cdn.svgporn.com/logos/github.svg" align="left" height="20" width="60" ></a>
----
-<a href="https://pypi.org/project/autotoloka"><img src="https://cdn.svgporn.com/logos/python.svg" align="left" height="32" width="32" ></a>
+<a href="https://github.com/ZackPashkin/AutoToloka"><img src="https://cdn.svgporn.com/logos/github.svg" align="left" height="30" width="90" ></a>
+
+<a href="https://pypi.org/project/autotoloka"><img src="https://cdn.svgporn.com/logos/python.svg" align="right" height="54" width="54" ></a>
 
 ---
 
