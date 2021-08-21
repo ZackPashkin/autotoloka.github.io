@@ -7,7 +7,7 @@ permalink: /
 ---
 
 <head>
-<link rel="stylesheet" href="mtyle.css">
+<link rel="stylesheet" href="style.css">
 </head>
 
 
